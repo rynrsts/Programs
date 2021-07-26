@@ -43,6 +43,11 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio
 
 ## Website / Web Pages
 
+**Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) <br>
+Description: &nbsp; Web project under the Web Development training <br>
+Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
+<!-- 2018 -->
+
 **Repository Name:** &nbsp; [web-development](https://github.com/rynrsts/web-development) <br>
 Description: &nbsp; Exercises from Web Development training <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
