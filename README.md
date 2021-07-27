@@ -12,6 +12,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [number-to-roman](https://github.com/rynrsts/number-to-roman) <br>
+Description: &nbsp; Converting a number to a roman numeral symbol <br>
+Languages and Tools: &nbsp; Java
+<!-- 2018 -->
+
 **Repository Name:** &nbsp; [triangle-patterns](https://github.com/rynrsts/triangle-patterns) <br>
 Description: &nbsp; Triangle pattern programs <br>
 Languages and Tools: &nbsp; Java
