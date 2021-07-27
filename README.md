@@ -12,13 +12,20 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [triangle-patterns](https://github.com/rynrsts/triangle-patterns) <br>
+Description: &nbsp; Triangle pattern programs <br>
+Languages and Tools: &nbsp; Java
+<!-- 2018 -->
+
 **Repository Name:** &nbsp; [hangbot](https://github.com/rynrsts/hangbot) <br>
 Description: &nbsp; Word game similar to Hangaroo <br>
 Languages and Tools: &nbsp; Java, JFrame
+<!-- 2017 -->
 
 **Repository Name:** &nbsp; [simple-calculator](https://github.com/rynrsts/simple-calculator) <br>
 Description: &nbsp; Simple calculator <br>
 Languages and Tools: &nbsp; Java, JFrame
+<!-- 2017 -->
 
 **Repository Name:** &nbsp; [guess-a-number](https://github.com/rynrsts/guess-a-number) <br>
 Description: &nbsp; Guessing a number from 1 to 50 <br>
