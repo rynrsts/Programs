@@ -12,6 +12,16 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [encryptoner](https://github.com/rynrsts/encryptoner) <br>
+Description: &nbsp; Encryption and decryption of texts <br>
+Languages and Tools: &nbsp; Java
+<!-- 2019 -->
+
+**Repository Name:** &nbsp; [food-ordering-system](https://github.com/rynrsts/food-ordering-system) <br>
+Description: &nbsp; Command line food ordering system <br>
+Languages and Tools: &nbsp; Java
+<!-- 2018 -->
+
 **Repository Name:** &nbsp; [number-to-roman](https://github.com/rynrsts/number-to-roman) <br>
 Description: &nbsp; Converting a number to a roman numeral symbol <br>
 Languages and Tools: &nbsp; Java
