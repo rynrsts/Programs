@@ -12,6 +12,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [cups-and-balls](https://github.com/rynrsts/cups-and-balls) <br>
+Description: &nbsp; Finding the ball among the three cups <br>
+Languages and Tools: &nbsp; Java, JFrame
+<!-- 2019 -->
+
 **Repository Name:** &nbsp; [encryptoner](https://github.com/rynrsts/encryptoner) <br>
 Description: &nbsp; Encryption and decryption of texts <br>
 Languages and Tools: &nbsp; Java
