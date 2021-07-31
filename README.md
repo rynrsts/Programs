@@ -85,6 +85,10 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio
 
 ## Website / Web Pages
 
+**Repository Name:** &nbsp; [rynrsts.github.io](https://github.com/rynrsts/rynrsts.github.io) <br>
+Description: &nbsp; Personal website / portfolio <br>
+Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
+
 **Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) <br>
 Description: &nbsp; Web project under the Web Development training <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
@@ -108,3 +112,10 @@ Languages and Tools: &nbsp; HTML5, CSS3, JavaScript, WAMP Stack (Windows, Apache
 <br>
 
 ## Games
+
+<br>
+
+## Want to Contribute?
+
+- Raise an Issue
+- Make a Pull Request
