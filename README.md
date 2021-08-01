@@ -12,6 +12,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [data-structure](https://github.com/rynrsts/data-structure) <br>
+Description: &nbsp; Programs under Data Structure <br>
+Languages and Tools: &nbsp; Java, JFrame
+<!-- 2nd Year, 1st Term (2019) -->
+
 **Repository Name:** &nbsp; [kids-game](https://github.com/rynrsts/kids-game) <br>
 Description: &nbsp; A game of naming a shape for kids <br>
 Languages and Tools: &nbsp; Java, JFrame
