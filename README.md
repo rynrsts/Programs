@@ -10,11 +10,58 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 <br>
 
+## Website / Web Pages
+
+**Repository Name:** &nbsp; [rynrsts.github.io](https://github.com/rynrsts/rynrsts.github.io) <br>
+Description: &nbsp; Personal website / portfolio <br>
+Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
+
+**Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) <br>
+Description: &nbsp; Web project under the Web Development training <br>
+Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
+<!-- Summer (2018) -->
+
+**Repository Name:** &nbsp; [web-development](https://github.com/rynrsts/web-development) <br>
+Description: &nbsp; Exercises from Web Development training <br>
+Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
+<!-- Summer (2018) -->
+
+**Repository Name:** &nbsp; [KickinJoy](https://github.com/rynrsts/KickinJoy) <br>
+Description: &nbsp; Web design project under the Creative Web Design training <br>
+Languages and Tools: &nbsp; HTML, CSS, JavaScript
+<!-- Summer (2018) -->
+
+**Repository Name:** &nbsp; [SurveyPortal](https://github.com/rynrsts/SurveyPortal) <br>
+Description: &nbsp; Web survey system <br>
+Languages and Tools: &nbsp; HTML5, CSS3, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
+<!-- Grade 12, 1st Term (2017) -->
+
+<br>
+
+## Windows Forms
+
+**Repository Name:** &nbsp; [GulpEmUp](https://github.com/rynrsts/GulpEmUp) <br>
+Description: &nbsp; Point of sales system for the food restaurant Gulp 'Em Up <br>
+Languages and Tools: &nbsp; C#, .NET, Visual Studio
+<!-- Grade 12, 2nd Term (2018) -->
+
+<br>
+
 ## Computer Programs
+
+**Repository Name:** &nbsp; [sorting](https://github.com/rynrsts/sorting) <br>
+Description: &nbsp; Getting the number of swap and compare of Bubble, Selection and Insertion Sorting <br>
+Languages and Tools: &nbsp; Java
+<!-- 2nd Year, 1st Term (2019) -->
+
+**Repository Name:** &nbsp; [saypa-ades](https://github.com/rynrsts/saypa-ades) <br>
+Description: &nbsp; Saypa Ades plants grow and die depending on some conditions <br>
+Languages and Tools: &nbsp; Java
+<!-- 2nd Year, 1st Term (2019) -->
 
 **Repository Name:** &nbsp; [data-structure](https://github.com/rynrsts/data-structure) <br>
 Description: &nbsp; Programs under Data Structure <br>
-Languages and Tools: &nbsp; Java, JFrame
+Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
 **Repository Name:** &nbsp; [kids-game](https://github.com/rynrsts/kids-game) <br>
@@ -76,43 +123,6 @@ Languages and Tools: &nbsp; Java
 Description: &nbsp; Separating vowels and consonant <br>
 Languages and Tools: &nbsp; Java
 <!-- Grade 11, 1st Term (2016) -->
-
-<br>
-
-## Windows Forms
-
-**Repository Name:** &nbsp; [GulpEmUp](https://github.com/rynrsts/GulpEmUp) <br>
-Description: &nbsp; Point of sales system for the food restaurant Gulp 'Em Up <br>
-Languages and Tools: &nbsp; C#, .NET, Visual Studio
-<!-- Grade 12, 2nd Term (2018) -->
-
-<br>
-
-## Website / Web Pages
-
-**Repository Name:** &nbsp; [rynrsts.github.io](https://github.com/rynrsts/rynrsts.github.io) <br>
-Description: &nbsp; Personal website / portfolio <br>
-Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
-
-**Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) <br>
-Description: &nbsp; Web project under the Web Development training <br>
-Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
-<!-- Summer (2018) -->
-
-**Repository Name:** &nbsp; [web-development](https://github.com/rynrsts/web-development) <br>
-Description: &nbsp; Exercises from Web Development training <br>
-Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
-<!-- Summer (2018) -->
-
-**Repository Name:** &nbsp; [KickinJoy](https://github.com/rynrsts/KickinJoy) <br>
-Description: &nbsp; Web design project under the Creative Web Design training <br>
-Languages and Tools: &nbsp; HTML, CSS, JavaScript
-<!-- Summer (2018) -->
-
-**Repository Name:** &nbsp; [SurveyPortal](https://github.com/rynrsts/SurveyPortal) <br>
-Description: &nbsp; Web survey system <br>
-Languages and Tools: &nbsp; HTML5, CSS3, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
-<!-- Grade 12, 1st Term (2017) -->
 
 <br>
 
