@@ -16,6 +16,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 Description: &nbsp; Personal website / portfolio <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
 
+**Repository Name:** &nbsp; [css-101-rocketman](https://github.com/rynrsts/css-101-rocketman) <br>
+Description: &nbsp; Cloned Rocketman design under CSS 101 <br>
+Languages and Tools: &nbsp; HTML, CSS
+<!-- Summer (2021) -->
+
 **Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) <br>
 Description: &nbsp; Web project under the Web Development training <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
@@ -48,6 +53,11 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio
 <br>
 
 ## Computer Programs
+
+**Repository Name:** &nbsp; [arrange-process](https://github.com/rynrsts/arrange-process) <br>
+Description: &nbsp; Arranging processes depending on their priority, size and time <br>
+Languages and Tools: &nbsp; Java
+<!-- 2nd Year, 1st Term (2019) -->
 
 **Repository Name:** &nbsp; [sorting](https://github.com/rynrsts/sorting) <br>
 Description: &nbsp; Getting the number of swap and compare of Bubble, Selection and Insertion Sorting <br>
