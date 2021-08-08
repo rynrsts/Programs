@@ -54,6 +54,16 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [c-scan](https://github.com/rynrsts/c-scan) <br>
+Description: &nbsp; C-SCAN Disk Scheduling <br>
+Languages and Tools: &nbsp; Java
+<!-- 2nd Year, 1st Term (2019) -->
+
+**Repository Name:** &nbsp; [fit](https://github.com/rynrsts/fit) <br>
+Description: &nbsp; Adding processes to main memory depending on its fit <br>
+Languages and Tools: &nbsp; Java
+<!-- 2nd Year, 1st Term (2019) -->
+
 **Repository Name:** &nbsp; [arrange-process](https://github.com/rynrsts/arrange-process) <br>
 Description: &nbsp; Arranging processes depending on their priority, size and time <br>
 Languages and Tools: &nbsp; Java
