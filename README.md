@@ -148,6 +148,11 @@ Languages and Tools: &nbsp; Java
 
 ## Games
 
+**Repository Name:** &nbsp; [the-rising-of-shield-hero](https://github.com/rynrsts/the-rising-of-shield-hero) <br>
+Description: &nbsp; Role playing game inspired from the anime The Rising of the Shield Hero <br>
+Languages and Tools: &nbsp; RPG Maker
+<!-- 2nd Year, 1st Term (2019) -->
+
 <br>
 
 ## Want to Contribute?
