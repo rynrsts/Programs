@@ -186,6 +186,15 @@ Languages and Tools: &nbsp; Java
 
 <br>
 
+## Mobile Application
+
+**Repository Name:** &nbsp; [health-care-telecommunication](https://github.com/rynrsts/health-care-telecommunication) <br>
+Description: &nbsp; Health Care Telecommunication Mobile Application <br>
+Languages and Tools: &nbsp; Kotlin, Android Studio
+<!-- 4th Year, 1st Term (2021) -->
+
+<br>
+
 ## Games
 
 **Repository Name:** &nbsp; [the-rising-of-the-shield-hero](https://github.com/rynrsts/the-rising-of-the-shield-hero) <br>
