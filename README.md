@@ -16,47 +16,57 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 Description: &nbsp; Personal website / portfolio <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
 
-**Repository Name:** &nbsp; [login-page](https://github.com/rynrsts/login-page) <br>
+**Repository Name:** &nbsp; [responsive-registration-page](https://github.com/rynrsts/responsive-registration-page) &nbsp; (2021) <br>
+Description: &nbsp; Registration page with responsive design <br>
+Languages and Tools: &nbsp; HTML, CSS
+<!-- 4th Year, 1st Term (2021) -->
+
+**Repository Name:** &nbsp; [responsive-web-page](https://github.com/rynrsts/responsive-web-page) &nbsp; (2021) <br>
+Description: &nbsp; Responsive web page using grid view <br>
+Languages and Tools: &nbsp; HTML, CSS
+<!-- 4th Year, 1st Term (2021) -->
+
+**Repository Name:** &nbsp; [login-page](https://github.com/rynrsts/login-page) &nbsp; (2021) <br>
 Description: &nbsp; Login page <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript
 <!-- 4th Year, 1st Term (2021) -->
 
-**Repository Name:** &nbsp; [birth-month-calendar](https://github.com/rynrsts/birth-month-calendar) <br>
+**Repository Name:** &nbsp; [birth-month-calendar](https://github.com/rynrsts/birth-month-calendar) &nbsp; (2021) <br>
 Description: &nbsp; Birth month's calendar of this year <br>
 Languages and Tools: &nbsp; HTML, CSS
 <!-- 4th Year, 1st Term (2021) -->
 
-**Repository Name:** &nbsp; [email-registration-and-class-schedule](https://github.com/rynrsts/email-registration-and-class-schedule) <br>
+**Repository Name:** &nbsp; [email-registration-and-class-schedule](https://github.com/rynrsts/email-registration-and-class-schedule) &nbsp; (2021) <br>
 Description: &nbsp; Email registration form, and a table of class schedule <br>
 Languages and Tools: &nbsp; HTML, CSS
 <!-- 4th Year, 1st Term (2021) -->
 
-**Repository Name:** &nbsp; [dodge-the-red-blocks](https://github.com/rynrsts/dodge-the-red-blocks) <br>
-Description: &nbsp; Simple 2D Game <br>
-Languages and Tools: &nbsp; HTML, CSS, JavaScript
-<!-- 3rd Year, 1st Term (2020) -->
-
-**Repository Name:** &nbsp; [css-101-rocketman](https://github.com/rynrsts/css-101-rocketman) <br>
+**Repository Name:** &nbsp; [css-101-rocketman](https://github.com/rynrsts/css-101-rocketman) &nbsp; (2021) <br>
 Description: &nbsp; Cloned Rocketman design under CSS 101 <br>
 Languages and Tools: &nbsp; HTML, CSS
 <!-- Summer (2021) -->
 
-**Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) <br>
+**Repository Name:** &nbsp; [dodge-the-red-blocks](https://github.com/rynrsts/dodge-the-red-blocks) &nbsp; (2020) <br>
+Description: &nbsp; Simple 2D Game <br>
+Languages and Tools: &nbsp; HTML, CSS, JavaScript
+<!-- 3rd Year, 1st Term (2020) -->
+
+**Repository Name:** &nbsp; [SINHS](https://github.com/rynrsts/SINHS) &nbsp; (2018) <br>
 Description: &nbsp; Web project under the Web Development training <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
 <!-- Summer (2018) -->
 
-**Repository Name:** &nbsp; [web-development](https://github.com/rynrsts/web-development) <br>
+**Repository Name:** &nbsp; [web-development](https://github.com/rynrsts/web-development) &nbsp; (2018) <br>
 Description: &nbsp; Exercises from Web Development training <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
 <!-- Summer (2018) -->
 
-**Repository Name:** &nbsp; [KickinJoy](https://github.com/rynrsts/KickinJoy) <br>
+**Repository Name:** &nbsp; [KickinJoy](https://github.com/rynrsts/KickinJoy) &nbsp; (2018) <br>
 Description: &nbsp; Web design project under the Creative Web Design training <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript
 <!-- Summer (2018) -->
 
-**Repository Name:** &nbsp; [SurveyPortal](https://github.com/rynrsts/SurveyPortal) <br>
+**Repository Name:** &nbsp; [SurveyPortal](https://github.com/rynrsts/SurveyPortal) &nbsp; (2017) <br>
 Description: &nbsp; Web survey system <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript, WAMP Stack (Windows, Apache, MySQL, PHP), XAMPP
 <!-- Grade 12, 1st Term (2017) -->
@@ -65,32 +75,32 @@ Languages and Tools: &nbsp; HTML5, CSS3, JavaScript, WAMP Stack (Windows, Apache
 
 ## Windows Forms
 
-**Repository Name:** &nbsp; [restaurant-mini-system](https://github.com/rynrsts/restaurant-mini-system) <br>
+**Repository Name:** &nbsp; [restaurant-mini-system](https://github.com/rynrsts/restaurant-mini-system) &nbsp; (2020) <br>
 Description: &nbsp; Restaurant mini system <br>
 Languages and Tools: &nbsp; C#, .NET, Visual Studio, Microsoft Access
 <!-- 3rd Year, 1st Term (2020) -->
 
-**Repository Name:** &nbsp; [threading](https://github.com/rynrsts/threading) <br>
+**Repository Name:** &nbsp; [threading](https://github.com/rynrsts/threading) &nbsp; (2020) <br>
 Description: &nbsp; Basic threading <br>
 Languages and Tools: &nbsp; C#, .NET, Visual Studio
 <!-- 3rd Year, 1st Term (2020) -->
 
-**Repository Name:** &nbsp; [basic-queuing](https://github.com/rynrsts/basic-queuing) <br>
+**Repository Name:** &nbsp; [basic-queuing](https://github.com/rynrsts/basic-queuing) &nbsp; (2020) <br>
 Description: &nbsp; Basic queuing system <br>
 Languages and Tools: &nbsp; C#, .NET, Visual Studio
 <!-- 3rd Year, 1st Term (2020) -->
 
-**Repository Name:** &nbsp; [account-registration](https://github.com/rynrsts/account-registration) <br>
+**Repository Name:** &nbsp; [account-registration](https://github.com/rynrsts/account-registration) &nbsp; (2020) <br>
 Description: &nbsp; Account registration form <br>
 Languages and Tools: &nbsp; C#, .NET, Visual Studio
 <!-- 3rd Year, 1st Term (2020) -->
 
-**Repository Name:** &nbsp; [HealthyRoasters](https://github.com/rynrsts/HealthyRoasters) <br>
+**Repository Name:** &nbsp; [HealthyRoasters](https://github.com/rynrsts/HealthyRoasters) &nbsp; (2020) <br>
 Description: &nbsp; Point of sales system for Healthy Roasters <br>
 Languages and Tools: &nbsp; C#, .NET, Visual Studio, MySQL, XAMPP
 <!-- 2nd Year, 2nd Term (2020) -->
 
-**Repository Name:** &nbsp; [GulpEmUp](https://github.com/rynrsts/GulpEmUp) <br>
+**Repository Name:** &nbsp; [GulpEmUp](https://github.com/rynrsts/GulpEmUp) &nbsp; (2018) <br>
 Description: &nbsp; Point of sales system for the food restaurant Gulp 'Em Up <br>
 Languages and Tools: &nbsp; C#, .NET, Visual Studio, Microsoft Access
 <!-- Grade 12, 2nd Term (2018) -->
@@ -99,92 +109,92 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio, Microsoft Access
 
 ## Computer Programs
 
-**Repository Name:** &nbsp; [c-scan](https://github.com/rynrsts/c-scan) <br>
+**Repository Name:** &nbsp; [c-scan](https://github.com/rynrsts/c-scan) &nbsp; (2019) <br>
 Description: &nbsp; C-SCAN Disk Scheduling <br>
 Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
-**Repository Name:** &nbsp; [fit](https://github.com/rynrsts/fit) <br>
+**Repository Name:** &nbsp; [fit](https://github.com/rynrsts/fit) &nbsp; (2019) <br>
 Description: &nbsp; Adding processes to main memory depending on its fit <br>
 Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
-**Repository Name:** &nbsp; [arrange-process](https://github.com/rynrsts/arrange-process) <br>
+**Repository Name:** &nbsp; [arrange-process](https://github.com/rynrsts/arrange-process) &nbsp; (2019) <br>
 Description: &nbsp; Arranging processes depending on their priority, size and time <br>
 Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
-**Repository Name:** &nbsp; [sorting](https://github.com/rynrsts/sorting) <br>
+**Repository Name:** &nbsp; [sorting](https://github.com/rynrsts/sorting) &nbsp; (2019) <br>
 Description: &nbsp; Getting the number of swap and compare of Bubble, Selection and Insertion Sorting <br>
 Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
-**Repository Name:** &nbsp; [saypa-ades](https://github.com/rynrsts/saypa-ades) <br>
+**Repository Name:** &nbsp; [saypa-ades](https://github.com/rynrsts/saypa-ades) &nbsp; (2019) <br>
 Description: &nbsp; Saypa Ades plants grow and die depending on some conditions <br>
 Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
-**Repository Name:** &nbsp; [data-structure](https://github.com/rynrsts/data-structure) <br>
+**Repository Name:** &nbsp; [data-structure](https://github.com/rynrsts/data-structure) &nbsp; (2019) <br>
 Description: &nbsp; Programs under Data Structure <br>
 Languages and Tools: &nbsp; Java
 <!-- 2nd Year, 1st Term (2019) -->
 
-**Repository Name:** &nbsp; [kids-game](https://github.com/rynrsts/kids-game) <br>
+**Repository Name:** &nbsp; [kids-game](https://github.com/rynrsts/kids-game) &nbsp; (2019) <br>
 Description: &nbsp; A game of naming a shape for kids <br>
 Languages and Tools: &nbsp; Java, JFrame
 <!-- 1st Year, 2nd Term (2019) -->
 
-**Repository Name:** &nbsp; [jeep-and-bus](https://github.com/rynrsts/jeep-and-bus) <br>
+**Repository Name:** &nbsp; [jeep-and-bus](https://github.com/rynrsts/jeep-and-bus) &nbsp; (2019) <br>
 Description: &nbsp; Jeep and bus transactions <br>
 Languages and Tools: &nbsp; Java, JFrame
 <!-- 1st Year, 2nd Term (2019) -->
 
-**Repository Name:** &nbsp; [reviewer-system](https://github.com/rynrsts/reviewer-system) <br>
+**Repository Name:** &nbsp; [reviewer-system](https://github.com/rynrsts/reviewer-system) &nbsp; (2019) <br>
 Description: &nbsp; Mini reviewer system <br>
 Languages and Tools: &nbsp; Java, JFrame
 <!-- 1st Year, 2nd Term (2019) -->
 
-**Repository Name:** &nbsp; [cups-and-balls](https://github.com/rynrsts/cups-and-balls) <br>
+**Repository Name:** &nbsp; [cups-and-balls](https://github.com/rynrsts/cups-and-balls) &nbsp; (2019) <br>
 Description: &nbsp; Finding the ball among the three cups <br>
 Languages and Tools: &nbsp; Java, JFrame
 <!-- 1st Year, 2nd Term (2019) -->
 
-**Repository Name:** &nbsp; [encryptoner](https://github.com/rynrsts/encryptoner) <br>
+**Repository Name:** &nbsp; [encryptoner](https://github.com/rynrsts/encryptoner) &nbsp; (2019) <br>
 Description: &nbsp; Encryption and decryption of texts <br>
 Languages and Tools: &nbsp; Java
 <!-- 1st Year, 2nd Term (2019) -->
 
-**Repository Name:** &nbsp; [food-ordering-system](https://github.com/rynrsts/food-ordering-system) <br>
+**Repository Name:** &nbsp; [food-ordering-system](https://github.com/rynrsts/food-ordering-system) &nbsp; (2018) <br>
 Description: &nbsp; Command line food ordering system <br>
 Languages and Tools: &nbsp; Java
 <!-- 1st Year, 1st Term (2018) -->
 
-**Repository Name:** &nbsp; [number-to-roman](https://github.com/rynrsts/number-to-roman) <br>
+**Repository Name:** &nbsp; [number-to-roman](https://github.com/rynrsts/number-to-roman) &nbsp; (2018) <br>
 Description: &nbsp; Converting a number to a roman numeral symbol <br>
 Languages and Tools: &nbsp; Java
 <!-- 1st Year, 1st Term (2018) -->
 
-**Repository Name:** &nbsp; [triangle-patterns](https://github.com/rynrsts/triangle-patterns) <br>
+**Repository Name:** &nbsp; [triangle-patterns](https://github.com/rynrsts/triangle-patterns) &nbsp; (2018) <br>
 Description: &nbsp; Triangle pattern programs <br>
 Languages and Tools: &nbsp; Java
 <!-- 1st Year, 1st Term (2018) -->
 
-**Repository Name:** &nbsp; [hangbot](https://github.com/rynrsts/hangbot) <br>
+**Repository Name:** &nbsp; [hangbot](https://github.com/rynrsts/hangbot) &nbsp; (2017) <br>
 Description: &nbsp; Word game similar to Hangaroo <br>
 Languages and Tools: &nbsp; Java, JFrame
 <!-- Grade 12, 1st Term (2017) -->
 
-**Repository Name:** &nbsp; [simple-calculator](https://github.com/rynrsts/simple-calculator) <br>
+**Repository Name:** &nbsp; [simple-calculator](https://github.com/rynrsts/simple-calculator) &nbsp; (2016) <br>
 Description: &nbsp; Simple calculator <br>
 Languages and Tools: &nbsp; Java, JFrame
 <!-- Grade 11, 1st Term (2016) -->
 
-**Repository Name:** &nbsp; [guess-a-number](https://github.com/rynrsts/guess-a-number) <br>
+**Repository Name:** &nbsp; [guess-a-number](https://github.com/rynrsts/guess-a-number) &nbsp; (2016) <br>
 Description: &nbsp; Guessing a number from 1 to 50 <br>
 Languages and Tools: &nbsp; Java
 <!-- Grade 11, 1st Term (2016) -->
 
-**Repository Name:** &nbsp; [vowels-consonants](https://github.com/rynrsts/vowels-consonants) <br>
+**Repository Name:** &nbsp; [vowels-consonants](https://github.com/rynrsts/vowels-consonants) &nbsp; (2016) <br>
 Description: &nbsp; Separating vowels and consonant <br>
 Languages and Tools: &nbsp; Java
 <!-- Grade 11, 1st Term (2016) -->
@@ -193,7 +203,7 @@ Languages and Tools: &nbsp; Java
 
 ## Mobile Application
 
-**Repository Name:** &nbsp; [health-care-telecommunication](https://github.com/rynrsts/health-care-telecommunication) <br>
+**Repository Name:** &nbsp; [health-care-telecommunication](https://github.com/rynrsts/health-care-telecommunication) &nbsp; (2021) <br>
 Description: &nbsp; Health Care Telecommunication Mobile Application <br>
 Languages and Tools: &nbsp; Kotlin, Android Studio
 <!-- 4th Year, 1st Term (2021) -->
@@ -202,7 +212,7 @@ Languages and Tools: &nbsp; Kotlin, Android Studio
 
 ## Games
 
-**Repository Name:** &nbsp; [the-rising-of-the-shield-hero](https://github.com/rynrsts/the-rising-of-the-shield-hero) <br>
+**Repository Name:** &nbsp; [the-rising-of-the-shield-hero](https://github.com/rynrsts/the-rising-of-the-shield-hero) &nbsp; (2019) <br>
 Description: &nbsp; Role playing game inspired from the anime The Rising of the Shield Hero <br>
 Languages and Tools: &nbsp; RPG Maker
 <!-- 2nd Year, 1st Term (2019) -->
