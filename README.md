@@ -21,11 +21,6 @@ Description: &nbsp; Registration page with responsive design <br>
 Languages and Tools: &nbsp; HTML, CSS
 <!-- 4th Year, 1st Term (2021) -->
 
-**Repository Name:** &nbsp; [responsive-web-page](https://github.com/rynrsts/responsive-web-page) &nbsp; (2021) <br>
-Description: &nbsp; Responsive web page using grid view <br>
-Languages and Tools: &nbsp; HTML, CSS
-<!-- 4th Year, 1st Term (2021) -->
-
 **Repository Name:** &nbsp; [login-page](https://github.com/rynrsts/login-page) &nbsp; (2021) <br>
 Description: &nbsp; Login page <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript
@@ -202,6 +197,11 @@ Languages and Tools: &nbsp; Java
 <br>
 
 ## Mobile Application
+
+**Repository Name:** &nbsp; [registration-app](https://github.com/rynrsts/registration-app) &nbsp; (2021) <br>
+Description: &nbsp; Registration app <br>
+Languages and Tools: &nbsp; Java, Android Studio
+<!-- 4th Year, 1st Term (2021) -->
 
 **Repository Name:** &nbsp; [health-care-telecommunication](https://github.com/rynrsts/health-care-telecommunication) &nbsp; (2021) <br>
 Description: &nbsp; Health Care Telecommunication Mobile Application <br>
