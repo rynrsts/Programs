@@ -16,6 +16,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 Description: &nbsp; Personal website / portfolio <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
 
+**Repository Name:** &nbsp; [simple-web-calculator](https://github.com/rynrsts/simple-web-calculator) &nbsp; (2021) <br>
+Description: &nbsp; Simple web calculator <br>
+Languages and Tools: &nbsp; HTML, CSS, JavaScript
+<!-- 4th Year, 1st Term (2021) -->
+
 **Repository Name:** &nbsp; [responsive-registration-page](https://github.com/rynrsts/responsive-registration-page) &nbsp; (2021) <br>
 Description: &nbsp; Registration page with responsive design <br>
 Languages and Tools: &nbsp; HTML, CSS
