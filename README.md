@@ -208,6 +208,11 @@ Description: &nbsp; Password Manager (IT Capstone Project) <br>
 Languages and Tools: &nbsp; Kotlin, Android Studio, Firebase
 <!-- 4th Year, 1st Term (2021) -->
 
+**Repository Name:** &nbsp; [pairs](https://github.com/rynrsts/pairs) &nbsp; (2021) <br>
+Description: &nbsp; Pairing game (Pokemon theme) <br>
+Languages and Tools: &nbsp; Java, Android Studio
+<!-- 4th Year, 1st Term (2021) -->
+
 **Repository Name:** &nbsp; [electronic-money-login](https://github.com/rynrsts/electronic-money-login) &nbsp; (2021) <br>
 Description: &nbsp; Electronic money app login layout <br>
 Languages and Tools: &nbsp; Java, Android Studio
