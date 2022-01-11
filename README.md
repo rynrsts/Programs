@@ -18,7 +18,7 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 <br>
 
-## Website / Web Pages
+## Website or Web Pages
 
 **Repository Name:** &nbsp; [rynrsts.github.io](https://github.com/rynrsts/rynrsts.github.io) <br>
 Description: &nbsp; Personal website / portfolio <br>
