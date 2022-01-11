@@ -4,6 +4,14 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 
 <br>
 
+**[Website / Web Pages](#website-web-pages)**<br>
+**[Windows Forms](#windows-forms)**<br>
+**[Computer Programs](#computer-programs)**<br>
+**[Mobile Application](#mobile-application)**<br>
+**[Games](#games)**
+
+<br>
+
 ## Portfolio
 
 [My Portfolio](https://rynrsts.github.io)
