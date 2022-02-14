@@ -240,6 +240,11 @@ Languages and Tools: &nbsp; Kotlin, Android Studio
 
 ## Games
 
+**Repository Name:** &nbsp; [slindero](https://github.com/rynrsts/slindero) &nbsp; (2022) <br>
+Description: &nbsp; Offline, single-player, platformer game with slime as the main character <br>
+Languages and Tools: &nbsp; GDevelop
+<!-- 4th Year, 1st Term (2022) -->
+
 **Repository Name:** &nbsp; [the-rising-of-the-shield-hero](https://github.com/rynrsts/the-rising-of-the-shield-hero) &nbsp; (2019) <br>
 Description: &nbsp; Role playing game inspired from the anime The Rising of the Shield Hero <br>
 Languages and Tools: &nbsp; RPG Maker
