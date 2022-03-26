@@ -24,6 +24,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 Description: &nbsp; Personal website / portfolio <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
 
+**Repository Name:** &nbsp; [bootstrap-101-geeks](https://github.com/rynrsts/bootstrap-101-geeks) &nbsp; (2022) <br>
+Description: &nbsp; Cloned Bootstrap theme under Bootstrap 101 <br>
+Languages and Tools: &nbsp; HTML 5, CSS 3, Bootstrap 5
+<!-- March (2022) -->
+
 **Repository Name:** &nbsp; [simple-web-calculator](https://github.com/rynrsts/simple-web-calculator) &nbsp; (2021) <br>
 Description: &nbsp; Simple web calculator <br>
 Languages and Tools: &nbsp; HTML, CSS, JavaScript
@@ -52,7 +57,7 @@ Languages and Tools: &nbsp; HTML, CSS
 **Repository Name:** &nbsp; [css-101-rocketman](https://github.com/rynrsts/css-101-rocketman) &nbsp; (2021) <br>
 Description: &nbsp; Cloned Rocketman design under CSS 101 <br>
 Languages and Tools: &nbsp; HTML, CSS
-<!-- Summer (2021) -->
+<!-- (2021) -->
 
 **Repository Name:** &nbsp; [dodge-the-red-blocks](https://github.com/rynrsts/dodge-the-red-blocks) &nbsp; (2020) <br>
 Description: &nbsp; Simple 2D Game <br>
