@@ -24,6 +24,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 Description: &nbsp; Personal website / portfolio <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
 
+**Repository Name:** &nbsp; [star-wars](https://github.com/rynrsts/star-wars) &nbsp; (2022) <br>
+Description: &nbsp; Star Wars Profile using React <br>
+Languages and Tools: &nbsp; React
+<!-- March (2022) -->
+
 **Repository Name:** &nbsp; [bootstrap-101-geeks](https://github.com/rynrsts/bootstrap-101-geeks) &nbsp; (2022) <br>
 Description: &nbsp; Cloned Bootstrap theme under Bootstrap 101 <br>
 Languages and Tools: &nbsp; HTML 5, CSS 3, Bootstrap 5
