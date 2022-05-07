@@ -24,6 +24,11 @@ List of programs here in GitHub, arranged in reversed chronological sequence (mo
 Description: &nbsp; Personal website / portfolio <br>
 Languages and Tools: &nbsp; HTML5, CSS3, JavaScript
 
+**Repository Name:** &nbsp; [django-101](https://github.com/rynrsts/django-101) &nbsp; (2022) <br>
+Description: &nbsp; Image sharer Django app under Django 101 <br>
+Languages and Tools: &nbsp; Django, HTML, Bootstrap
+<!-- May (2022) -->
+
 **Repository Name:** &nbsp; [star-wars](https://github.com/rynrsts/star-wars) &nbsp; (2022) <br>
 Description: &nbsp; Star Wars Profile using React <br>
 Languages and Tools: &nbsp; React
@@ -126,6 +131,16 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio, Microsoft Access
 <br>
 
 ## Computer Programs
+
+**Repository Name:** &nbsp; [python-301](https://github.com/rynrsts/python-301) &nbsp; (2022) <br>
+Description: &nbsp; Python programs under Python 301 <br>
+Languages and Tools: &nbsp; Python
+<!-- April (2022) -->
+
+**Repository Name:** &nbsp; [python-201](https://github.com/rynrsts/python-201) &nbsp; (2022) <br>
+Description: &nbsp; Python programs under Python 201 <br>
+Languages and Tools: &nbsp; Python
+<!-- April (2022) -->
 
 **Repository Name:** &nbsp; [c-scan](https://github.com/rynrsts/c-scan) &nbsp; (2019) <br>
 Description: &nbsp; C-SCAN Disk Scheduling <br>
