@@ -132,6 +132,11 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio, Microsoft Access
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [led-display](https://github.com/rynrsts/led-display) &nbsp; (2022) <br>
+Description: &nbsp; Seven-segment display, using single LEDs <br>
+Languages and Tools: &nbsp; Python
+<!-- May (2022) -->
+
 **Repository Name:** &nbsp; [python-301](https://github.com/rynrsts/python-301) &nbsp; (2022) <br>
 Description: &nbsp; Python programs under Python 301 <br>
 Languages and Tools: &nbsp; Python
