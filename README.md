@@ -132,10 +132,15 @@ Languages and Tools: &nbsp; C#, .NET, Visual Studio, Microsoft Access
 
 ## Computer Programs
 
+**Repository Name:** &nbsp; [javascript-algorithms-and-data-structures-projects](https://github.com/rynrsts/javascript-algorithms-and-data-structures-projects) &nbsp; (2022) <br>
+Description: &nbsp; Program solutions for the JavaScript Algorithms and Data Structures Projects under JavaScript Algorithms and Data Structures in freeCodeCamp <br>
+Languages and Tools: &nbsp; JavaScript
+<!-- July (2022) -->
+
 **Repository Name:** &nbsp; [intermediate-algorithm-scripting](https://github.com/rynrsts/intermediate-algorithm-scripting) &nbsp; (2022) <br>
 Description: &nbsp; Program solutions for the Intermediate Algorithm Scripting under JavaScript Algorithms and Data Structures in freeCodeCamp <br>
 Languages and Tools: &nbsp; JavaScript
-<!-- May (2022) -->
+<!-- July (2022) -->
 
 **Repository Name:** &nbsp; [caesar-cipher](https://github.com/rynrsts/caesar-cipher) &nbsp; (2022) <br>
 Description: &nbsp; Converting characters into ASCII code <br>
